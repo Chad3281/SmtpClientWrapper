@@ -1,0 +1,6 @@
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll.config
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.pdb
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.dll
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.pdb
+D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.csprojResolveAssemblyReference.cache
