@@ -4,3 +4,9 @@ D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\Smt
 D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.dll
 D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.pdb
 D:\VS_Projects\Projects\Shared\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.csprojResolveAssemblyReference.cache
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll.config
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.pdb
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.csprojResolveAssemblyReference.cache
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.dll
+C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.pdb

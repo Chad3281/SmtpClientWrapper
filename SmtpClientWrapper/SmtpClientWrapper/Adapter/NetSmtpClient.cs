@@ -32,6 +32,11 @@ namespace SmtpClientWrapper.Adapter
             client.Send(message);
         }
 
+        public void Send(IEmail email)
+        {
+            client.Send(email.From, email.To, email.Subject, email.Body);
+        }
+
         public void Send(string from, string to, string subject, string body)
         {
             client.Send(from, to, subject, body);

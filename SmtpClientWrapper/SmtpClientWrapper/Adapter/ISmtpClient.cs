@@ -19,6 +19,7 @@ namespace SmtpClientWrapper.Adapter
         bool EnableSsl { get; set; }
 
         void Send(MailMessage message);
+        void Send(IEmail email);
         void Send(string from, string to, string subject, string body);
     }
 }
