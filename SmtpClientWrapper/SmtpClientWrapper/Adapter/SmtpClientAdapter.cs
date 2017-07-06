@@ -49,5 +49,20 @@ namespace SmtpClientWrapper.Adapter
         {
             client.Send(from, to, subject, body);
         }
+
+        public void SendAsync(MailMessage message)
+        {
+            Task.Factory.StartNew(() => Send(message));
+        }
+
+        public void SendAsync(IEmail email)
+        {
+            Task.Factory.StartNew(() => Send(email));
+        }
+
+        public void SendAsync(string from, string to, string subject, string body)
+        {
+            Task.Factory.StartNew(() => Send(from, to, subject, body));
+        }
     }
 }
