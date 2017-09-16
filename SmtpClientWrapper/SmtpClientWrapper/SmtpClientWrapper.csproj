@@ -40,12 +40,13 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="Adapter\Email.cs" />
-    <Compile Include="Adapter\IEmail.cs" />
-    <Compile Include="Adapter\ISmtpClient.cs" />
-    <Compile Include="Adapter\ISmtpClientAdaptee.cs" />
-    <Compile Include="Adapter\NetSmtpClient.cs" />
-    <Compile Include="Adapter\SmtpClientAdapter.cs" />
+    <Compile Include="Adapters\NetSmtpClientAdapter.cs" />
+    <Compile Include="Messages\Email.cs" />
+    <Compile Include="Messages\IEmail.cs" />
+    <Compile Include="Adapters\ISmtpClientAdapter.cs" />
+    <Compile Include="Adaptees\ISmtpClientAdaptee.cs" />
+    <Compile Include="Adaptees\NetSmtpClientAdaptee.cs" />
+    <Compile Include="Adapters\SmtpClientAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

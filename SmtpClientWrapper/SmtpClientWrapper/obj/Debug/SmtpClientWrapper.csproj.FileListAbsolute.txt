@@ -13,6 +13,6 @@ C:\Users\JakobyC\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClient
 D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll.config
 D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.dll
 D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\bin\Debug\SmtpClientWrapper.pdb
-D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.csprojResolveAssemblyReference.cache
 D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.dll
 D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.pdb
+D:\Users\Chad\Documents\GitHub\SmtpClientWrapper\SmtpClientWrapper\SmtpClientWrapper\obj\Debug\SmtpClientWrapper.csprojResolveAssemblyReference.cache
