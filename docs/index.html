@@ -7,7 +7,28 @@
 	</head>
 	<body>
         <div class="smtp-header-background">
+            <a href="https://github.com/jakobyc/SmtpClientWrapper" class="smtp-header-link image-text-top-left">GitHub</a>
+            <p class="image-text-top-right" style="color: white;">Chad Jakoby</p>
             <p class="smtp-header-text image-text-center">SMTP Client Wrapper</p>
+        </div>
+        <div class="smtp-container">
+            <div>
+                <p>The goal of this SMTP Client Wrapper is to utilize the adapter pattern to abstract SMTP functionality.</p>
+                <h3 class="smtp-list-header">Notes:</h3>
+                <ul class="smtp-list">
+                    <li>
+                        This project wraps .NET's SmtpClient.
+                    </li>
+                    <li>
+                        .NET's SmtpClient offered more features than I needed for a few applications, and I
+                        didn't want to be locked into a single implementation.
+                    </li>
+                    <li>
+                        With this wrapper, SMTP client implementations can be swapped out as needed by
+                        creating new adaptees/adapters.
+                    </li>
+                </ul>
+            </div>
         </div>
 	</body>
 </html>
