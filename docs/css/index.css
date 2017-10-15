@@ -1,0 +1,24 @@
+﻿.smtp-header-background {
+    position: relative;
+    background: deeppink; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, black); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(deeppink, black); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(deeppink, black); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(black, white 35%, black); /* Standard syntax */
+    height: 250px;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.smtp-header-text
+{
+    font-size: 50px;
+}
+
+.image-text-center 
+{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%);
+}
